@@ -1,0 +1,3 @@
+1. 執行"HW2_Q1.m"的檔案時，會呼叫"my_filter.m"以及"make_spectrum.m"的檔案，並且會出現"Low-passFilter_0_380.wav"、"BandpassFilter_381_700.wav"、"High-passFilter_701_.wav"的輸出檔
+
+2. 執行"HW2_Q2.m"的檔案時，會呼叫"my_spectrogram.m"的檔案，而"my_spectrogram.m"中又會再呼叫"my_stft.m"的檔案，並且輸出"guitar_01.png"、"guitar_02.png"、"guitar_03.png"、"piano_01.png"、"piano_02.png"、"piano_03.png"、"violin_01.png"、"violin_02.png"、"violin_03.png"、"drum_01.png"、"drum_02.png"、"drum_03.png"的輸出檔
